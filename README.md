@@ -2,4 +2,4 @@
 
 ## POC
 
-![image]('./architecture/design.jpg')
+![image]('https://github.com/ISUCT/student-cards/raw/master/architecture/design.jpg')

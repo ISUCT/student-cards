@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08319dc2-9c20-4678-9171-3e65d2fa51cb": {
+      "ProjectGuid": "08319dc2-9c20-4678-9171-3e65d2fa51cb",
+      "DisplayName": "student-cards",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

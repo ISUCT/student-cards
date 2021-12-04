@@ -15,3 +15,7 @@
 - Management
 
 - DevOps
+
+## Useful links
+
+- [Figma](https://www.figma.com/file/YBzZKmeXT6RdZrE50gz09U/MARAT-ZIMNUROV-TEAM%60S?node-id=0%3A1)

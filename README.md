@@ -6,15 +6,37 @@
 
 ## Team
 
-- Frontend
+- Фронтенд
 
-- Backend
+   - Влад Метелев (vladmet1)
+   - Никита Рыбкин (Nikrybkin)
+   - Алексей Субботин()
+   - Александр Лапшин()
 
-- Design
+- Бекенд
 
-- Management
+   - Даниил Ойкин (DaniilOykin)
+   - Кирилл Копров (swbonjour)
+   - Никита Кононов (b1hh1)
+   - Игорь Амелин (ReEngine)
+
+- Дизайн
+
+   - Кирилл Шестаков (Greenprize)
+   - Михаил Смирнов (DustofTimeYT)
+   - Наталья Курило (Natalya1820)
+   - Руслан (Zick3223)
+
+- Менеджмент
+
+  - Ирина Ильинцева
+  - Лена Наумова (LenaNaumova)
+  - Светлана Крылова
+  - Кирилл Шестаков(частично) (Greenprize)
 
 - DevOps
+   - Игорь Амелин (ReEngine)
+   - Ярослав Вдовин (Proza1k)
 
 ## Useful links
 
